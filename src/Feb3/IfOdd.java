@@ -1,4 +1,4 @@
-package feb3;
+package Feb3;
 import java.util.Scanner;
 public class IfOdd {
     public static void main(String[] args) {

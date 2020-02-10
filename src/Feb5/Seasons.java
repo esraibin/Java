@@ -1,4 +1,4 @@
-package feb5;
+package Feb5;
 import java.util.Scanner;
 public class Seasons {
     public static void main(String[] args) {

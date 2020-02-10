@@ -1,4 +1,4 @@
-package feb5;
+package Feb5;
 import java.util.Scanner;
 public class MillenniumUserInput {
     public static void main(String[] args) {

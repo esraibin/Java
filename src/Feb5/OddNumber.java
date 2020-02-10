@@ -1,4 +1,4 @@
-package feb5;
+package Feb5;
 
 public class OddNumber {
     public static void main(String[] args){

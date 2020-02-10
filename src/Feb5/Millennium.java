@@ -1,4 +1,4 @@
-package feb5;
+package Feb5;
 
 public class Millennium {
     public static void main(String[] args) {

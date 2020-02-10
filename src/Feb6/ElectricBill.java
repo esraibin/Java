@@ -1,5 +1,4 @@
 package Feb6;
-
 import java.util.Scanner;
 public class ElectricBill {
     public static void main(String[] args) {

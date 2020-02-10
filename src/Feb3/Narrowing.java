@@ -1,4 +1,4 @@
-package feb3;
+package Feb3;
 
 public class Narrowing {
     public static void main(String[] args) {

@@ -1,5 +1,4 @@
 package secondpackage;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class KeyboardDataTypes {
  public static void main(String[] args){
